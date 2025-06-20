@@ -9,7 +9,7 @@ Whilest along my journery sharpening my skills in;
 - Using data serialization languages for data science🔭
 - Low level programming⚡
 - Joining a healthy modding community ✨
-- Finding ways to mix my Math,Art and Tech ...videogames of sorts :D)
+- Finding ways to mix my love for Math,Art and Tech ...videogames of sorts :D)
 - Perception of the world of tech and mathematics 🌱
 
 <!--
